@@ -1,0 +1,4 @@
+
+.monaco-workbench .part.titlebar>.titlebar-container>.titlebar-left>.window-appicon:not(.codicon) {
+  background-image: url("file:///C:/Users/pwittayasirikul/.vscode/extensions/resource/rick.svg"); 
+}  
